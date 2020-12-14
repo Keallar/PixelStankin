@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: trava
+  m_Name: lestnitsa1_6
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: bb3d91a960f4b0d48848ecf36b1060c7, type: 3}
+  m_Sprite: {fileID: -134432223383800926, guid: 06fc723ed6e9e9c42be7681e8e5da44b,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
