@@ -217,7 +217,7 @@ EdgeCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 10, y: 0}
   m_EdgeRadius: 0
   m_Points:
   - {x: -3.087608, y: -1.8157026}
@@ -752,12 +752,12 @@ PrefabInstance:
     - target: {fileID: 2921685044865491946, guid: d34899bb97274bd42afc9bdc6ef7479a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 26.27
+      value: -13.96
       objectReference: {fileID: 0}
     - target: {fileID: 2921685044865491946, guid: d34899bb97274bd42afc9bdc6ef7479a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.27
+      value: 0.79
       objectReference: {fileID: 0}
     - target: {fileID: 2921685044865491946, guid: d34899bb97274bd42afc9bdc6ef7479a,
         type: 3}
@@ -32925,5 +32925,6 @@ EdgeCollider2D:
   m_Offset: {x: 10, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -1.6491132, y: 1.6473949}
+  - {x: -3, y: 1.6473949}
+  - {x: -1.649113, y: 1.647395}
   - {x: 2.2614007, y: -1.6050482}
