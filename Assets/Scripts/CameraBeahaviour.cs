@@ -36,7 +36,10 @@ public class CameraBeahaviour : MonoBehaviour
 		if (player)
 		{
 			int currentX = Mathf.RoundToInt(player.position.x);
-			if (currentX > lastX) faceLeft = false; else if (currentX < lastX) faceLeft = true;
+			if (currentX > lastX) 
+				faceLeft = false; 
+			else if (currentX < lastX) 
+				faceLeft = true;
 			lastX = Mathf.RoundToInt(player.position.x);
 
 			Vector3 target;

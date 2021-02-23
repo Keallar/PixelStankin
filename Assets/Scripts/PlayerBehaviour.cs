@@ -17,7 +17,8 @@ public class PlayerBehaviour : MonoBehaviour
     // Ось Oy
     public int yVelocity = 8;
 
-    [SerializeField] private LayerMask ground;
+    [SerializeField]
+    private LayerMask ground;
 
     private Rigidbody2D rigidBody;
     private Collider2D coll;
